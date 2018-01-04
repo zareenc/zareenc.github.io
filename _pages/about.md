@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Zareen</strong> Choudhury
-description: <a href="">MIT 2018</a>. 
+description: MIT 2018 | Electrical Engineering & Computer Science
 
 profile:
   align: right
@@ -11,8 +11,8 @@ profile:
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there! My name is Zareen Choudhury, and I'm an undergraduate at MIT in the Class of 2018. I'm majoring in Electrical Engineering & Computer Science (Course 6-2) with a humanities concentration in Education (Course 11). I'm most interested in computer systems, with applications to robotics and machine learning. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm currently an undergraduate researcher in the [Distributed Robotics Lab](http://groups.csail.mit.edu/drl/wiki/index.php?title=Main_Page) under Daniela Rus in CSAIL. Previously, I've interned at Yelp, Facebook, Dexcom, and NASA. I've also been a Lab Assistant for [6.004 (Computation Structures)](https://6004.mit.edu/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of class, I've been involved in various organizations. I helped run [HackMIT](https://hackmit.org/) & [Blueprint](https://blueprint.hackmit.org/), led a STEM outreach program with the [Society of Women Engineers](http://swe.mit.edu/), and am a camp counselor for MIT's chapter of [Camp Kesem](http://campkesem.org/). 
