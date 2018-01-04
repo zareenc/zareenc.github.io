@@ -15,7 +15,7 @@ last_updated: # leave blank if you don't want to display last updated
 github_username: zareenc # put your github username
 linkedin_username: zareenchoudhury # put your linkedin username
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: UA-111948063-1 # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -63,6 +63,7 @@ include: ['_pages']
 # Gems
 gems:
     - jekyll-paginate
+    - jekyll-sitemap
     - jemoji
 
 # -----------------------------------------------------------------------------
