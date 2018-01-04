@@ -1,7 +1,9 @@
 .profile {
     float: right !important;
     img {
-        box-shadow: 0 0 5px $grey-color;
+        // box-shadow: 0 0 5px $grey-color;
+	margin-left: 20px;
+	margin-bottom: 20px;
         width: 100%;
     }
 }
