@@ -6,7 +6,7 @@ description: MIT 2018 | Electrical Engineering & Computer Science
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profpic_website.jpg
 
 social: true
 ---
