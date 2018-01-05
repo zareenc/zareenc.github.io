@@ -42,13 +42,13 @@
 
 .header-bar{
     border-bottom: 1px solid $light-gray;
-    font-size: 20px;
+    font-size: 40px;
     display: block;
     opacity: 0.75;
     width: 100%;
     text-align: center;
     padding-top: 5px;
-    padding-bottom: $space-1;
+    padding-bottom: $space-2;
     line-height: 120%;
     z-index: 25;
     h1{
