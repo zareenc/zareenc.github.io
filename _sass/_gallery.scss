@@ -15,14 +15,19 @@ figcaption {
     width: 100%;
     overflow: hidden;
     box-sizing:border-box;
+    text-align: center;
 }
 .col {
     width: 100%;
     height: 100%;
-    float: left;
+    float: center;
+    display: inline-block;
     object-fit: cover;
     box-sizing:border-box;
     padding: $img-spacing;
+}
+.half {
+    width:49%;
 }
 .one {
     width:33.33%;
