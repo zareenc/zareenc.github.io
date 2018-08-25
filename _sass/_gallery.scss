@@ -17,6 +17,13 @@ figcaption {
     box-sizing:border-box;
     text-align: center;
 }
+.img_row_large {
+    height: $img-height-large;
+    width: 100%;
+    overflow: hidden;
+    box-sizing:border-box;
+    text-align: center;
+}
 .img_row_small {
     height: $img-height-small;
     width: 100%;
